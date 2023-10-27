@@ -4,13 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zapotocky77&label=Profile%20views&color=0e75b6&style=flat" alt="zapotocky77" /> </p>
 
-- 🔭 I’m currently working on **My Website**
+- 🔭 I’m currently working on **BOZP Project**
 
-- 🌱 I’m currently learning **React & TypeScript**
+- 🌱 I’m currently learning **svelte**
 
 - 📫 How to reach me **samozolapotocky@gmail.com**
 
-- ⚡ Fun fact **There is no such thing as a stupid question, only a stupid answer.**
+- ⚡ Fun fact **There is no such thing as a stupid question, only a stupid answer**
+
+- 🎓 Studying Computer Science at **Technical University of Košice, Slovakia**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
