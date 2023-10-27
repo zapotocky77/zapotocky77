@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **BOZP Project**
 
-- 🌱 I’m currently learning **svelte**
+- 🌱 I’m currently learning :svelte: **svelte**
 
 - 📫 How to reach me **samozolapotocky@gmail.com**
 
