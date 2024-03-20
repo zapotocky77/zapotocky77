@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zapotocky77&label=Profile%20views&color=0e75b6&style=flat" alt="zapotocky77" /> </p>
 
-- 🔭 I’m currently working on **BOZP Project**
+- ⚙️ I’m currently working on **BOZP Project**
 
 - 💡 I'm a member of wonderful [**Hack Slovakia**](https://hackslovakia.com/) community
 
