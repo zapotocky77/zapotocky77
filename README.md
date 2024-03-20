@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently working on **BOZP Project**
 
+- 💡 I'm a member of wonderful [**Hack Slovakia**](https://hackslovakia.com/) community
+
 - 🌱 I’m currently learning **svelte**
 
 - 📫 How to reach me **samozolapotocky@gmail.com**
