@@ -52,8 +52,5 @@
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zapotocky77&show_icons=true&locale=en" alt="zapotocky77" />
-</p>
-
-<p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zapotocky77&" alt="zapotocky77" />
 </p>
