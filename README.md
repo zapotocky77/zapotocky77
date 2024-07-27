@@ -6,7 +6,7 @@
 
 - ⚙️ I’m currently working on **BOZP Project**
 
-- 💡 I'm a member of wonderful [**Hack Slovakia**](https://hackslovakia.com/) community
+- 💡 I'm a member of [**Hack Košice**](https://hackkosice.com/) Team
 
 - 🌱 I’m currently learning **svelte**
 
@@ -15,6 +15,8 @@
 - ⚡ Fun fact **There is no such thing as a stupid question, only a stupid answer**
 
 - 🎓 Studying Computer Science at **Technical University of Košice**
+
+- 💻 Check out [**my website**](https://zapotocky77.github.io/myPortfolio/) 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
