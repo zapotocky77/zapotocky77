@@ -6,7 +6,7 @@
 
 - 💡 Member of [**Hack Košice**](https://hackkosice.com/) Team
 
-- 🌱 Currently learning **react**
+- 🌱 Currently learning **svelte**
 
 - 📫 How to reach me **samozolapotocky@gmail.com**
 
@@ -14,19 +14,18 @@
 
 - 🎓 Studying Informatics at **Technical University of Košice**
 
-- 💻 Check out [**my website**](https://zapotocky77.github.io/myPortfolio/)
+- 🎯 Currently focusing on completing **Bachelor's degree**
 
 ### **Languages and Tools:**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/>
 </p>
 
 <p>&nbsp;
