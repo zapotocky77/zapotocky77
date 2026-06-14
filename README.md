@@ -14,8 +14,6 @@
 
 - 🎓 Studying Informatics at **Technical University of Košice**
 
-- 🎯 Currently focusing on completing **Bachelor's degree**
-
 ### **Languages and Tools:**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
