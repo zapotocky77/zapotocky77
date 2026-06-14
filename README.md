@@ -6,7 +6,7 @@
 
 - 💡 Member of [**Hack Košice**](https://hackkosice.com/) Team
 
-- 🌱 Currently learning **svelte**
+- 🌱 Currently practicing **Python**
 
 - 📫 How to reach me **samozolapotocky@gmail.com**
 
