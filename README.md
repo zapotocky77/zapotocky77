@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Samuel Zápotocký</h1>
-<h3 align="center">Front end developer from Slovakia</h3>
+<h3 align="center">Software developer from Slovakia</h3>
 <img align="right" alt="Coding" width="370" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zapotocky77&label=Profile%20views&color=0e75b6&style=flat" alt="zapotocky77" /> </p>
 
 - 💡 Member of [**Hack Košice**](https://hackkosice.com/) Team
 
-- 🌱 Currently practicing **Python**
+- 🌱 Currently practicing **Machine learning and AI**
 
 - 📫 How to reach me **samozolapotocky@gmail.com**
 
 - ⚡ Fun fact **There is no such thing as a stupid question, only a stupid answer**
-
-- 🎓 Studying Informatics at **Technical University of Košice**
 
 ### **Languages and Tools:**
 <p align="left">
