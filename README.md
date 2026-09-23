@@ -1,25 +1,27 @@
 <h1 align="center">Hi 👋, I'm Samuel Zápotocký</h1>
 <h3 align="center">Software developer from Slovakia</h3>
-<img align="right" alt="Coding" width="370" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zapotocky77&label=Profile%20views&color=0e75b6&style=flat" alt="zapotocky77" /> </p>
+<img align="right" alt="me fr" width="320" src="https://i.pinimg.com/736x/73/9f/5e/739f5eec5b022c742cf0362e7ed4f8fe.jpg"/>
 
 - 💡 Member of [**Hack Košice**](https://hackkosice.com/) Team
+- 🌱 Currently practicing **Machine Learning and AI**
+- 🎮 Fan of the cyberpunk genre and that Blade Runner atmosphere
+- 🎧 Dabble in music production with Strudel
+- 📫 Reach me at **samozolapotocky@gmail.com**
+- ⚡ Fun fact: **There is no such thing as a stupid question, only a stupid answer**
 
-- 🌱 Currently practicing **Machine learning and AI**
-
-- 📫 How to reach me **samozolapotocky@gmail.com**
-
-- ⚡ Fun fact **There is no such thing as a stupid question, only a stupid answer**
-
-### **Languages and Tools:**
+<h3>Languages & Tools</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</p>
+
+<h3>GitHub Stats</h3>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zapotocky77&theme=default" alt="zapotocky77's streak" />
 </p>
