@@ -25,3 +25,9 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zapotocky77&theme=default" alt="zapotocky77's streak" />
 </p>
+
+<h3>Contribution Snake</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zapotocky77/zapotocky77/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/zapotocky77/zapotocky77/output/github-contribution-grid-snake.svg" />
+</picture>
