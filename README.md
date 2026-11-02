@@ -3,7 +3,7 @@
 
 <img align="right" alt="me fr" width="320" src="https://i.pinimg.com/736x/73/9f/5e/739f5eec5b022c742cf0362e7ed4f8fe.jpg"/>
 
-- 💡 Member of [**Hack Košice**](https://hackkosice.com/) Team
+- 💡 Member of [**Hack Košice**](https://hackkosice.com/) Team 
 - 🌱 Currently practicing **Machine Learning and AI**
 - 🎮 Fan of the cyberpunk genre and that Blade Runner atmosphere
 - 🎧 Dabble in music production with Strudel
